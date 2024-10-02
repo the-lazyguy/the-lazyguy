@@ -3,9 +3,10 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-lazyguy&label=Profile%20views&color=0e75b6&style=flat" alt="the-lazyguy" /> </p>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="aa8c046e-2fac-4f81-b334-010684c8117f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 <p align="left"> <a href="https://twitter.com/zainnadeemarain" target="blank"><img src="https://img.shields.io/twitter/follow/zainnadeemarain?logo=twitter&style=for-the-badge" alt="zainnadeemarain" /></a> </p>
 
