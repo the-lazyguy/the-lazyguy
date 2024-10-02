@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm zain nadeem</h1>
 <h3 align="center">A passionate Student Of  Artificial Intelligence from Pakistan</h3>
-My Credly Badge
 
-[![Credly Badge](https://images.credly.com/size/220x220/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png)](https://www.credly.com/badges/aa8c046e-2fac-4f81-b334-010684c8117f/public_url)
+
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+ 
+
+[![Credly Badge](https://images.credly.com/size/220x220/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png)](https://www.credly.com/badges/aa8c046e-2fac-4f81-b334-010684c8117f/public_url)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-lazyguy&label=Profile%20views&color=0e75b6&style=flat" alt="the-lazyguy" /> </p>
 
@@ -20,7 +22,7 @@ My Credly Badge
 - 📝 I regularly post on [https://www.instagram.com/lazy_brown_guy/](https://www.instagram.com/lazy_brown_guy/)
 
 - 📫 How to reach me **zainnadeem194@gmail.com**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zainnadeemarain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zainnadeemarain" height="30" width="40" /></a>
